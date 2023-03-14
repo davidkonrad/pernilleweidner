@@ -1,0 +1,14 @@
+/* dadk */
+
+/* U+1F36E	 */
+
+ul {
+	list-style: none;
+	padding: 0px;
+}
+
+ul li:before
+{
+	content: '\1F36E';
+	margin: 0 1em;
+}
