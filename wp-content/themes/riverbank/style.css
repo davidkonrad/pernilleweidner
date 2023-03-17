@@ -16,13 +16,4 @@ Requires License:     no
 Tags: one-column, custom-colors, custom-menu, custom-logo, e-commerce, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
 */
 
-ul {
-	list-style: none;
-	padding: 0px;
-}
 
-ul li:before
-{
-	content: '\1F36E';
-	margin: 0 1em;
-}

@@ -92,12 +92,21 @@ if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
 
+
+/* dadk */
+//define('WP_CONTENT_URL', 'localhost/pernilleweidner/');
+/* dadk */
+
+
+
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
 
 
 /* dadk */
 define('FS_METHOD', 'direct');
+
+
 
 
 

@@ -403,7 +403,7 @@
         "elements": {
           "link": {
             "typography": {
-              "textDecoration": "none"
+              "textDecoration": "underline"
             }
           }
         }
@@ -473,6 +473,11 @@
       "name": "footer",
       "title": "Footer",
       "area": "footer"
+    },
+		{
+      "name": "PageHeader",
+      "title": "pageheader",
+      "area": "general"
     }
   ]
 }

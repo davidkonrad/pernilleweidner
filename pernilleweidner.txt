@@ -1,0 +1,45 @@
+
+localhost/pernilleweidner/wp-admin/install.php
+
+pernille
+T2dyWlONS1gs#4mTkm
+
+info@pernilleweidner.dk
+
+----------------------------
+
+hvordan ændres CSS? [ift at lave hjerter osv]
+Hvordan laves en infobox med billede (cacao ceremoni)
+finde ud af hvordan man twaker themet
+
+--------------------------------------
+Skal lave 
+http://localhost/pernilleweidner/index.php/cacao-ceremoni/
+http://localhost/pernilleweidner/cacao-ceremoni
+--------------------------------------
+
+https://www.holdspacecreative.com/blog-list/the-dos-and-donts-of-fonts-for-therapy-websites
+--------------------------------------
+ul.cacao {
+	list-style: none;
+	padding: 0px;
+}
+
+ul.cacao li:before
+{
+	content: '\1F36E';
+	margin: 0 .1em;
+}
+
+FÅ BALANCE I LIVET MED BEHANDLINGER INDENFOR
+PSYKOTERAPI OG KLANGMASSAGE
+-------------------------------
+lave spellcheck = false plugin
+
+------------------------------
+
+
+
+
+
+
